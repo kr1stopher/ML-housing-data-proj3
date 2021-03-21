@@ -1,7 +1,6 @@
 # ML-housing-data-proj3
-Author: Kris Swartzbaugh
-CWID: 890939184 
-Project 2: NP Training and Validation 
+File Provided Jupyter Notebook Python File. 
+
 Project Description: 
     Use NumPy to implement vectorized linear and polynomial regression models and compare their performance using seperate training and test sets 
 
